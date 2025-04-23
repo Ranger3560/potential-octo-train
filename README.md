@@ -12,10 +12,13 @@
 - pip
 
 
-## 🛠️ Setup (Local Development)
+## Setup 
 
-### 1. Clone and install
+### Clone and install
 ```bash
-git clone https://github.com/yourusername/email-classification.git
-cd email-classification
+git clone https://github.com/Ranger3560/potential-octo-train.git
 pip install -r requirements.txt
+
+
+## Huggingface
+https://huggingface.co/spaces/Ranger777/email_classification
