@@ -18,7 +18,7 @@
 ```bash
 git clone https://github.com/Ranger3560/potential-octo-train.git
 pip install -r requirements.txt
+```
 
-
-## Huggingface
+### Huggingface
 https://huggingface.co/spaces/Ranger777/email_classification
